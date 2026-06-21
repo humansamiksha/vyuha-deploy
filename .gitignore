@@ -9,7 +9,7 @@ venv/
 # ── Backend runtime artifacts ───────────────────────────────────────────
 backend/.env
 backend/vyuha.db
-backend/data/raw/*.csv
+# backend/data/raw/*.csv
 backend/data/processed/*.parquet
 backend/data/processed/*.graphml
 backend/saved_models/*.joblib
